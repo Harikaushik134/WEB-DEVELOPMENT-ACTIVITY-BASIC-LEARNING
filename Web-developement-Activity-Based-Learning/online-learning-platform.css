@@ -1,5 +1,5 @@
 
-/* Basic Setup */
+
 * {
     margin: 0;
     padding: 0;
@@ -14,7 +14,7 @@ body {
     line-height: 1.6;
 }
 
-/* Navigation */
+
 header {
     background-color: white;
     padding: 18px 7%;
@@ -57,7 +57,7 @@ header {
     border-radius: 6px;
 }
 
-/* Hero Section */
+
 .hero {
     background-color: #eef2ff;
     padding: 90px 7%;
@@ -94,7 +94,7 @@ header {
     background-color: #3730a3;
 }
 
-/* General Sections */
+
 .section {
     padding: 65px 7%;
     text-align: center;
@@ -110,7 +110,7 @@ header {
     margin-bottom: 30px;
 }
 
-/* Categories */
+
 .category-container {
     display: flex;
     justify-content: center;
@@ -125,7 +125,7 @@ header {
     border: 1px solid #e2e8f0;
 }
 
-/* Course Cards */
+
 .courses-section {
     background-color: #f1f5f9;
 }
@@ -207,7 +207,6 @@ header {
     background-color: #3730a3;
 }
 
-/* About Section */
 .about > p {
     max-width: 750px;
     margin: 15px auto 30px;

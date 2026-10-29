@@ -1,5 +1,5 @@
 
-/* Basic page styling */
+
 * {
     margin: 0;
     padding: 0;
@@ -14,7 +14,7 @@ body {
     line-height: 1.6;
 }
 
-/* Navigation bar */
+
 header {
     background-color: #172554;
     padding: 20px 8%;
@@ -48,7 +48,7 @@ nav a:hover {
     color: #60a5fa;
 }
 
-/* Home section */
+
 .hero {
     text-align: center;
     padding: 100px 20px;
@@ -73,7 +73,7 @@ span {
     color: #2563eb;
 }
 
-/* Buttons */
+
 .btn {
     display: inline-block;
     background-color: #2563eb;
@@ -88,7 +88,7 @@ span {
     background-color: #172554;
 }
 
-/* General sections */
+
 .section {
     padding: 60px 8%;
     text-align: center;
@@ -105,7 +105,7 @@ span {
     margin: 0 auto 15px;
 }
 
-/* Skill and project cards */
+
 .skills {
     display: flex;
     justify-content: center;
@@ -130,7 +130,7 @@ span {
     transform: translateY(-5px);
 }
 
-/* Footer */
+
 footer {
     background-color: #172554;
     color: white;
@@ -138,7 +138,7 @@ footer {
     padding: 20px;
 }
 
-/* Mobile-friendly styling */
+
 @media (max-width: 600px) {
     nav {
         flex-direction: column;
